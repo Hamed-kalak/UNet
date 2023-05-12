@@ -1,0 +1,17 @@
+{
+    "Video Id": 213,
+    "Camera": "FASTCAM Mini AX100 type 540K-C-16GB",
+    "Sampling rate (Hz)": 1000,
+    "Video resolution (px, HxW)": [
+        352,
+        256
+    ],
+    "Color": true,
+    "Endoscope orientation": null,
+    "Endoscope application": "nasal",
+    "Age range (yrs)": "50-60",
+    "Subject sex": "W",
+    "Subject disorder status": "",
+    "Segmenter": 2,
+    "Post-processed": 1
+}
